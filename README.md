@@ -14,3 +14,13 @@
 <p style="color: #1e203b; font-size: 16px; font-weight: bold;">Incident response to Brute Force Attacks</p>
 
 <pre><code style="color: #ff3f31;">Portfolio Activity 3 - Using Tcpdump logs to identify protocols</code></pre>
+
+<p style="font-size: 12px; font-style: italic; color: #4a4a4a;">
+  All portfolio items represent fictional companies, IP addresses, websites, and emails, used strictly for educational purposes; and provided hands-on experience in real-world cybersecurity practices.  
+</p>
+
+<p style="color: #1e203b; font-size: 16px; font-weight: bold;">Activity Overview</p>
+
+<p style="color: #1e203b; font-size: 16px; font-weight: bold;">Report</p>
+
+<p style="color: #1e203b; font-size: 16px; font-weight: bold;">Key Takeaways</p>
