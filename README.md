@@ -10,3 +10,7 @@
 <a href="mailto:random@gmail.com" target="_blank">
   <img src="https://www.clipartmax.com/png/small/31-316827_gmail-icon-gmail-icon.png" alt="Gmail Icon" width="24" height="24">
 </a>
+
+<p style="color: #1e203b; font-size: 16px; font-weight: bold;">Incident response to Brute Force Attacks</p>
+
+<pre><code style="color: #ff3f31;">Portfolio Activity 3 - Using Tcpdump logs to identify protocols</code></pre>
